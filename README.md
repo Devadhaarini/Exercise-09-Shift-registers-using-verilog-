@@ -1,6 +1,8 @@
 
 # Experiment--09-Implementation-of Shift-registers-using-verilog-
 ### AIM: To implement PISO , PIPO,PISO  using verilog and validating their functionality using their functional tables
+### Developed by: Devadhaarini.D
+### Register Number: 23006001
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
