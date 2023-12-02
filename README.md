@@ -62,15 +62,15 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 5.end module
 
 ### PROGRAM 
-Program 1:
+1.
 
 ![Screenshot 2023-12-02 170420](https://github.com/Devadhaarini/Exercise-09-Shift-registers-using-verilog-/assets/145796552/17f1c4d9-497e-48d0-b533-a4b3f22375f0)
 
-Program 2:
+2.
 
 ![Screenshot 2023-12-02 170429](https://github.com/Devadhaarini/Exercise-09-Shift-registers-using-verilog-/assets/145796552/c989a2eb-4601-470f-8eef-05f1764f9c0b)
 
-Progran 3:
+3.
 
 ![Screenshot 2023-12-02 170440](https://github.com/Devadhaarini/Exercise-09-Shift-registers-using-verilog-/assets/145796552/2d59f464-4588-4039-bc4d-9b812652218b)
 
